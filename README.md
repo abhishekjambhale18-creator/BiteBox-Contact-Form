@@ -60,4 +60,4 @@ HTML5
 ---
 
 **Series Navigation**  
-← [Lab 6 – HTML Tables](https://github.com/abhishekjambhale18-creator/BiteBox-HTML-Tables) | Next Lab Coming Soon →
+← [Lab 6 – HTML Tables](https://github.com/abhishekjambhale18-creator/BiteBox-Menu-Table) | Next Lab Coming Soon →
