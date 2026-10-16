@@ -60,4 +60,4 @@ HTML5
 ---
 
 **Series Navigation**  
-← [Lab 6 – HTML Tables](https://github.com/abhishekjambhale18-creator/BiteBox-Menu-Table) | [Lab 8 – Full Website Structure](https://github.com/abhishekjambhale18-creator/Website_Refactoring_and_Professional-Layout-Part-1) →
+← [Lab 6 – HTML Tables](https://github.com/abhishekjambhale18-creator/BiteBox-Menu-Table) | [Lab 8 – Full Website Structure](https://github.com/abhishekjambhale18-creator/Website-Refactoring_and_Professional-Layout-Planning-Part-1) →
